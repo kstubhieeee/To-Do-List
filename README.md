@@ -1,2 +1,2 @@
 # To-Do-List
-Created with CodeSandbox
+A simple to do list to add and delete the items
